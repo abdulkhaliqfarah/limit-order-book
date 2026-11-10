@@ -108,6 +108,3 @@ scripts/model.py             naive reference model + differential runner
 - Real Nasdaq ITCH 5.0 decoding instead of the simplified 32-byte format.
 - Cancel/replace with proper queue-priority rules.
 
-## License
-
-MIT
